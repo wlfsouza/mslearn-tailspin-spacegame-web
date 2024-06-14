@@ -1,4 +1,7 @@
-pool: Default
+trigger:
+- '*'
+
+pool:
   vmImage: ubuntu-latest
 
 variables:
